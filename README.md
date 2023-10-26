@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vinod kumar reddy yellannagari
 - 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning  MERN stack
-- Working with startup idea Clubhubb- "Connect , Engage and Explore" 
+- Working  on a startup idea Clubhubb- "Connect , Engage and Explore" 
 
 
 <!---
